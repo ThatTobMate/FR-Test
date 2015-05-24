@@ -1,0 +1,33 @@
+body{
+  background: url('../img/PL.jpg');
+  background-position: -130 0;
+}
+
+#date{
+  width: 100%;
+  margin: 0 auto;
+  text-decoration: underline;
+  text-align: center;
+  font-family: monospace;
+  font-size: 1.3em;
+}
+.flat-table {
+  font-family: monospace;
+  font-weight: 600;
+  font-size: 100%;
+  overflow: auto;
+  width: auto;
+  margin: 0 auto;
+  margin-top: -25;
+}
+.flat-table th {
+  background-color: #0914C6;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+}
+.flat-table td {
+  background-color: rgba(0, 0, 0, 0.77);
+  color: #DFFFAF;
+  padding: 5px 10px;
+}
